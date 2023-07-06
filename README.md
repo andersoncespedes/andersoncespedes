@@ -11,6 +11,3 @@
   <li>🤔 I’m looking for help with anyone who need me</li>
 </ul>
 <h2>My Skills</h2>
-<p>
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-</p>
