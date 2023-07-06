@@ -12,5 +12,5 @@
 </ul>
 <h2>My Skills</h2>
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 </p>
