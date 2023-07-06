@@ -11,4 +11,4 @@
   <li>🤔 I’m looking for help with anyone who need me</li>
 </ul>
 <h2>My Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,postgres,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
