@@ -32,15 +32,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 </a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andersoncespedes&show_icons=true&locale=en&theme=dark" alt="andersoncespedes" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncespedes&theme=dark" alt="andersoncespedes" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoncespedes&show_icons=true&locale=en&layout=compact&theme=dark" alt="andersoncespedes" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncespedes&theme=dark" alt="andersoncespedes" />
 </p>
 
