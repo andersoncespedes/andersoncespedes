@@ -21,7 +21,7 @@
    </p>
 <p>   
 &nbsp;
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncespedes&theme=dark" alt="andersoncespedes" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersoncespedes&show_icons=true&locale=en&theme=dark" alt="andersoncespedes" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncespedes&theme=dark" alt="andersoncespedes" />
+   <img src="https://github-readme-stats.vercel.app/api?username=andersoncespedes&show_icons=true&locale=en&theme=dark" alt="andersoncespedes" />
 </p>
 
