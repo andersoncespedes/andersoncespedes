@@ -20,4 +20,4 @@
 <center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncespedes&" alt="andersoncespedes" /></p>
 </center>
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=andersoncespedes&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncespedes&show_icons=true&theme=radical)
